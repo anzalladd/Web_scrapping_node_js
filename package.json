@@ -1,0 +1,19 @@
+{
+  "name": "web-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "nodemon": "^2.0.4",
+    "promise": "^8.1.0",
+    "request": "^2.88.2"
+  }
+}
